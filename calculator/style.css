@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_cover{
+    background-color: bisque;
+}
+button{
+    background-color: black;
+}
